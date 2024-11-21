@@ -35,4 +35,4 @@ Inital setup:
 1. Clone the repo
 2. Download the BNPL dataset from [here](https://drive.google.com/drive/folders/1-7271NwUF4oLpy6wVx4D9O8mU0E-Ue4k?usp=sharing)
 
-After setting up the repo, run each notebook in the `notebook` directory in order.
+After setting up the repo, run each notebook in the `notebooks` directory in order.
