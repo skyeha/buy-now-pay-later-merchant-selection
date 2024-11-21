@@ -20,12 +20,12 @@ Overall, we created a ranking system that was insightful and interpretable for n
 
 ## Timeline
 The project tooks 6 week to complete. The timeline is as follow:
-1. **Week 1**: data collection, ETL pipeline constrution, preliminary anaysis ~ 15 hours
-2. **Week 2**: outlier analysis, geospatial analysis, visualisation ~ 17 hours
-3. **Week 3**: Modelling Default Rate ~ 14 hours
-4. **Week 4**: Features and Heursitics Engineer for Ranking System ~ 14 hours
-5. **Week 5**: Segmenting merchants ~ 3 hours
-6. **Week 6**: Finalise ranking system and identify top 100 merchants ~ 12 hours
+* **Week 1**: data collection, ETL pipeline constrution, preliminary anaysis ~ 15 hours
+* **Week 2**: outlier analysis, geospatial analysis, visualisation ~ 17 hours
+* **Week 3**: Modelling Default Rate ~ 14 hours
+* **Week 4**: Features and Heursitics Engineer for Ranking System ~ 14 hours
+* **Week 5**: Segmenting merchants ~ 3 hours
+* **Week 6**: Finalise ranking system and identify top 100 merchants ~ 12 hours
 
 ## Presentation
 Click [here](https://www.canva.com/design/DAGSUw-gtaE/JNJhYQR_RFOx6pm2KY7fGQ/edit?utm_content=DAGSUw-gtaE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) to access presentation slides for this project that we present to stakeholders (i.e subject coordinator, tutor, and peers)
